@@ -1,4 +1,4 @@
-# RTL Design and SoC Lab
+# RTL Design and SoC Lab 
 
 This repository contains structured RTL implementations and verification experiments 
 focused on strengthening digital design fundamentals and SoC integration readiness.
